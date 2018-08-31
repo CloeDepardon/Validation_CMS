@@ -11,4 +11,4 @@ Code à fournir sous GIT, lien envoyé par mail à m.corroyer@it-akademy.fr
 
 // Fonctionnel :
 - Fichier de configuration config.php
-- Une vue "plan" permettant de lister les pages de la DB
+- Une vue /view/plan permettant de lister les pages de la DB 
